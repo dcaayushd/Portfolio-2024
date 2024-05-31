@@ -4,7 +4,7 @@
 
 
 /**
- * copyright 2022 @dcaayushd
+ * copyright 2024 @dcaayushd
  */
 
 
@@ -155,7 +155,10 @@ input, textarea {
 
 html { font-family: var(--ff-poppins); }
 
-body { background: var(--smoky-black); }
+body { 
+  background: var(--smoky-black); 
+}
+
 
 
 
